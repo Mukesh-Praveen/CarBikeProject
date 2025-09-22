@@ -6,5 +6,8 @@ public class Ktm {
 		System.out.println("Yamaha FZ V3 is better then KTM");
 		System.out.println("Yamaha FZ V3 is better than pulsar");
 	}
-
+   
+	public static void creation() {
+		
+	}
 }
