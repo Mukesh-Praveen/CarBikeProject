@@ -8,7 +8,7 @@ public class Ktm {
 	}
    
 	public static void creation() {
-		System.out.println("SuperHero Bike");
+		System.out.println("SuperZero Bike");
 		
 	}
 }
